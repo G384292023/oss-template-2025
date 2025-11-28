@@ -2,7 +2,7 @@
 
 ## 説明
 
-[CentOS（Community ENTerprise Operating System）は、Red Hat Enterprise Linux（RHEL）を基にしたオープンソースのLinuxディストリビューションです。サーバー用途での安定性が高く、長期サポートが提供されるため企業や個人の開発環境で広く利用されています。パッケージ管理はRPM/YUMを使用し、セキュリティアップデートやソフトウェアの互換性も確保されています。CentOS StreamはRHELの次期バージョンの開発版として位置づけられ、コミュニティ主導で更新される特徴があります。]
+[CentOS（Community ENTerprise Operating System）は、RHELの時期版に近い開発モデルです。Red Hat Enterprise Linux（RHEL）を基にしたオープンソースのLinuxディストリビューションです。RHELとは商用サポート付きの企業向けLinuxで、高い信頼性が特徴です。サーバー用途での安定性が高く、長期サポートが提供されるため企業や個人の開発環境で広く利用されています。パッケージ管理はRPM/YUMを使用し、セキュリティアップデートやソフトウェアの互換性も確保されています。CentOS StreamはRHELの次期バージョンの開発版として位置づけられ、コミュニティ主導で更新される特徴があります。]
 
 ## 参考文献
 
